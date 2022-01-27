@@ -72,6 +72,8 @@ div.red{
     margin-left: 50px;
     border-left-width : 10px;
     border-bottom-width: 3px;
+    border-right-width: 0px;
+    border-top-width: 0px;
 }
 
 /* The blue div has the following styles
@@ -86,6 +88,8 @@ div.blue{
     margin-right: 50px;
     border-right-width: 10px;   
     border-bottom-width: 3px;
+    border-left-width: 0px;
+    border-top-width: 0px;
 }
 
 /* The yellow div has the following styles
@@ -105,6 +109,8 @@ div.yellow{
     margin-left: 50px;
     border-left-width: 10px;
     border-bottom-width: 3px;
+    border-right-width: 0px;
+    border-top-width: 0px;
 }
 
 div.yellow h2{
@@ -128,6 +134,8 @@ div.green{
     margin-right: 50px;
     border-right-width: 10px;
     border-bottom-width: 3px;
+    border-left-width: 0px;
+    border-top-width: 0px;
 }
 
 /* Any span elements should be underlined, have all uppercase, and not have any text-shadow. */
