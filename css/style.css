@@ -55,7 +55,7 @@ div{
 }
 
 /* The intro div should have a 15px border-radius (to curve the edges) and a 15px margin on the top. */
-div .intro{
+div.intro{
     border-radius: 15px;
     margin-top: 15px;
 }
